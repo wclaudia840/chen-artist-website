@@ -1,0 +1,14 @@
+.container-titile {
+  width: 200px;
+  height: 60px;
+  /* border: 0.5px yellow solid; */
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 300;
+  letter-spacing: 5.64px;
+  line-height: 100%;
+  color: white;
+  text-align: center;
+}
