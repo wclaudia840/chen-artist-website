@@ -1,0 +1,21 @@
+.container-btn{
+  display: flex;
+  justify-content: space-between;
+  /* border: 0.5px yellow solid; */
+}
+
+.btn{
+  border: 2px solid white;
+  padding: 8px 20px;
+  text-decoration: none;
+  transition: 0.5s ease;
+}
+
+.btn:hover {
+  color:rgba(87, 87, 87, 1);
+  background-color: white;
+}
+
+.btn-chn {
+  padding: 8px 28px;
+}

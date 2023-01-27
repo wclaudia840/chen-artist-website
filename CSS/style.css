@@ -1,0 +1,32 @@
+@import url("component/title.css");
+@import url("component/navbar.css");
+@import url("component/footer.css");
+@import url("component/mega-menu.css");
+@import url("component/card.css");
+@import url("component/work.css");
+
+body {
+  background-color: #FCFCFC;
+  font-family: 'Jost', sans-serif;
+  color: rgba(87, 87, 87, 1);
+  font-weight: 200;
+  margin: 0px 60px;
+}
+
+a{
+  color: rgba(87, 87, 87, 1);
+  text-decoration: none;
+  font-weight: 200;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+#logo-navbar {
+    /* border: 0.5px rgb(57, 57, 56) solid; */
+    width: 200px;
+    position: absolute;
+    top: 50%;
+}

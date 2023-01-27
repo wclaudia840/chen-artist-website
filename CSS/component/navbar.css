@@ -1,0 +1,25 @@
+.navbar-container {
+  /* border: 0.5px rgb(57, 57, 56) solid; */
+  width: 200px;
+}
+.navbar-nav {
+  padding: 0px;
+  margin: 20px 0px;
+  /* border: 0.5px rgb(57, 57, 56) solid; */
+}
+.nav-item {
+  padding: 10px 0px;
+  /* border: 0.5px rgb(57, 57, 56) solid; */
+}
+.nav-link {
+  font-size: 16px;
+  letter-spacing: 1.52px;
+  line-height: 100%;
+  transition: opacity 0.5s ease;
+}
+.nav-link:hover{
+  font-weight: 300;
+}
+.active {
+  font-weight: 300;
+}

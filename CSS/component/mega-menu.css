@@ -1,0 +1,58 @@
+.mega-menu {
+  /* Used to position the mega menu */
+  position: relative;
+}
+.mega-menu__trigger:hover .mega-menu__content {
+  /* Show the mega menu when hovering the trigger item */
+  display: block;
+}
+
+.mega-menu__content.works{
+  /* border: 1px solid #000000; */
+  margin-top: -1px;
+  display: none;
+  left: 70px;
+  position: absolute;
+  top: 5px;
+  opacity: 0.8;
+  width: 150px;
+  background: rgb(255, 255, 255);
+  z-index: 9999;
+}
+.mega-menu__content.cv{
+  /* border: 1px solid #000000; */
+  margin-top: -1px;
+  display: none;
+  left: 70px;
+  position: absolute;
+  top: 90px;
+  opacity: 0.8;
+  width: 150px;
+  background: rgb(255, 255, 255);
+  z-index: 9999;
+}
+
+
+.navbar-mega {
+  margin: 0px;
+  padding: 0px;
+  /* border: 1px solid #000000; */
+  text-align: center;
+}
+.mega-nav {
+  /* border: 0.5px rgb(57, 57, 56) solid; */
+}
+.mega-item {
+  /* border: 0.5px rgb(57, 57, 56) solid; */
+  margin: 5px 0px;
+}
+.mega-link {
+  font-size: 16px;
+  letter-spacing: 1.52px;
+  line-height: 100%;
+  transition: opacity 0.5s ease;
+  /* border: 1px solid #00000x0; */
+}
+.mega-link:hover{
+  font-weight: 300;
+}
