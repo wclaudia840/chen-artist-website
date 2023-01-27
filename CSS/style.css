@@ -27,6 +27,13 @@ ul {
 #logo-navbar {
     /* border: 0.5px rgb(57, 57, 56) solid; */
     width: 200px;
-    position: absolute;
+    position: fixed;
+    /* position: sticky; */
     top: 50%;
+
+}
+.copyright {
+  font-size: x-small;
+  color: #999999;
+  margin-top: 50px;
 }

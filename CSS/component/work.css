@@ -1,13 +1,14 @@
 #work{
   position: absolute;
   top: 50%;
-  left: 64%;
+  left: 65%;
   transform: translate(-50%, -50%);
   z-index: 1;
 }
 #work p{
   text-align: right;
-  font-size: 14px;
+  font-size: 13px;
   letter-spacing: 1.52px;
   line-height: 100%;
+  color: rgba(87, 87, 87, 1);
 }

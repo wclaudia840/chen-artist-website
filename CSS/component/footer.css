@@ -1,15 +1,11 @@
 /* #footer {
-position: relative;
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0;
+margin: auto;
+text-align: center;
+justify-content: center;
+font-size: x-small;
+color: #999999;
 } */
-
-.footer-cr{
-  border: 0.5px rgb(57, 57, 56) solid;
-  font-size: x-small;
-  color: #999999;
-  text-align: right;
-  position: absolute;
-  bottom: 0%;
-  left: 0;
-  right: 0;
-  margin: 60px 80px;
-}
