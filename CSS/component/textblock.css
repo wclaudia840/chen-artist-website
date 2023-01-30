@@ -1,0 +1,17 @@
+#textblock{
+  /* border: 0.5px rgb(57, 57, 56) solid; */
+  position: absolute;
+  top: 55%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  width: 50%;
+}
+
+#textblock p{
+  text-align: right;
+  font-size: 13px;
+  letter-spacing: 1.52px;
+  line-height: 1.5;
+  color: rgba(87, 87, 87, 1);
+}

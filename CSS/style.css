@@ -4,6 +4,7 @@
 @import url("component/mega-menu.css");
 @import url("component/card.css");
 @import url("component/work.css");
+@import url("component/textblock.css");
 
 body {
   background-color: #FCFCFC;
