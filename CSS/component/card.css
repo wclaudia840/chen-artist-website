@@ -2,13 +2,14 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: repeat(3, 1fr);
-  grid-gap: 50px;
+  grid-gap: 60px;
   justify-items: center;
   /* align-items: center; */
   /* border: 1px solid #000000; */
   /* width: 600px; */
   position: absolute;
-  right: 80px;
+  right: 60px;
+  /* padding: 10px 0px; */
   /* margin-bottom: 200px; */
 }
 .card-category {

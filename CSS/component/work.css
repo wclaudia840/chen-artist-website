@@ -1,9 +1,13 @@
 #work{
   position: absolute;
-  top: 50%;
-  left: 65%;
-  transform: translate(-50%, -50%);
+  top: 15%;
+  right: 80px;
+  /* transform: translate(-50%, -50%); */
+  /* display: flex;
+  justify-content: center;
+  flex-direction: column; */
   z-index: 1;
+  /* border: 0.5px rgb(57, 57, 56) solid; */
 }
 #work p{
   text-align: right;
@@ -11,4 +15,10 @@
   letter-spacing: 1.52px;
   line-height: 100%;
   color: rgba(87, 87, 87, 1);
+  z-index: 999;
+  /* border: 0.5px rgb(57, 57, 56) solid; */
+}
+#work img{
+  display: flex;
+  justify-items: center;
 }

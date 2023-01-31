@@ -14,6 +14,8 @@ h1 {
 a {
   color: white;
   letter-spacing: 1.2px;
+  text-decoration: none;
+  font-weight: 200;
 }
 
 .container-hp {
