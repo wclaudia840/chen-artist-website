@@ -5,6 +5,7 @@
 @import url("component/card.css");
 @import url("component/work.css");
 @import url("component/textblock.css");
+@import url("component/curtainbar.css");
 
 body {
   background-color: #FCFCFC;
@@ -37,4 +38,12 @@ ul {
   font-size: x-small;
   color: #999999;
   margin-top: 50px;
+}
+
+@media (max-width: 1024px) {
+
+  body {
+    margin: 0px;
+  }
+
 }
