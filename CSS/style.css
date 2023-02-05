@@ -6,6 +6,7 @@
 @import url("component/work.css");
 @import url("component/textblock.css");
 @import url("component/curtainbar.css");
+@import url("component/work-images.css");
 
 body {
   background-color: #FCFCFC;
@@ -40,10 +41,10 @@ ul {
   margin-top: 50px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1140px) {
 
   body {
-    margin: 0px;
+    margin: 0px 0px;
   }
 
 }
